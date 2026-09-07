@@ -1,3 +1,13 @@
+## Canlı Demo — Giriş yapmadan inceleyin
+
+[SmartIT Pro canlı demosunu aç](https://smartitpro-web-26-cbb6dudma8h3g2ak.westeurope-01.azurewebsites.net/)
+
+Kullanıcı adı, şifre veya üyelik gerekmez. Demo Visitor olarak otomatik açılır.
+
+- Dashboard, envanter, çalışanlar ve Help Desk ekranları incelenebilir.
+- Demo örnek verilerle çalışır.
+- Ekleme, düzenleme, silme ve yönetim işlemleri kapalıdır.
+
 # SmartIT Pro v1.0.1 — Foundation Update
 
 [![Build and test](https://github.com/yusufgurgen/SmartIT-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/yusufgurgen/SmartIT-Pro/actions/workflows/ci.yml)
